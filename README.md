@@ -72,6 +72,11 @@ Linear(128, 10)
 - `num_epochs = 10`
 - seed fixe: `42`
 
+## Resultat
+
+- Precision sur le jeu de test: **92%**
+- Le score peut varier legerement selon la machine et l'entrainement.
+- 
 ## Classes Fashion-MNIST
 
 `T-shirt/top`, `Trouser`, `Pullover`, `Dress`, `Coat`, `Sandal`, `Shirt`, `Sneaker`, `Bag`, `Ankle boot`
